@@ -1,0 +1,206 @@
+#navbar{
+    height: 40px;
+    background-color: black;
+    color: white;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-bottom: 20px;
+}
+
+#navcat{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#signout{
+    justify-self: right;
+    background-color: cyan;
+}
+
+#page{
+    height: auto;
+    padding-left: 15%;
+    padding-right: 15%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#mainpage{
+    background-color: white;
+    height: 700px;
+    width: 60%;
+}
+
+#sidepage{
+    height: 700px;
+    width: 30%;
+}
+
+#profile{
+    background-color: brown;
+    height: 350px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#proftop{
+    background-color: cyan;
+    height: 30%;
+    width: 100%;
+}
+
+#profbot{
+    background-color: white;
+    height: 70%;
+    width: 99%;
+    border: 3px solid gray;
+}
+
+#pfp{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    position: relative;
+    left: 20px;
+    bottom: -50px;
+}
+
+#profname{
+    margin-top: 40px;
+    margin-left: 7px;
+}
+
+#location{
+    display: flex;
+    margin-left: 7px;
+}
+
+#marker{
+    height: 35px;
+}
+
+#description{
+    height: 30px;
+    margin-left: 7px;
+}
+
+#setting{
+    display: flex;
+    margin-left: 7px;
+}
+
+#settings{
+    color: blue;
+    height: 35px;
+}
+
+u{
+    color: blue;
+}
+
+#education{
+    background-color: white;
+    height: 300px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#edutop{
+    height: 15%;
+    width: 100%;
+    background-color: rgb(61, 61, 61);
+}
+
+#edubot{
+    border: 3px solid gray;
+}
+
+#conreq{
+    height: 150px;
+    width: 100%;
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+#contop{
+    height: 30%;
+    width: 100%;
+    background-color: rgb(61, 61, 61);
+    align-items: center;
+    display: flex;
+}
+
+#connum{
+    height: 50%;
+    width: 20px;
+    border-radius: 50%;
+    background-color: white;
+    margin: 5px;
+}
+
+#conbot{
+    background-color: brown;
+    height: 70%;
+    width: 98%;
+    border: 3px solid gray;
+}
+
+#conpeople{
+    height: 50%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#picture{
+    height: 35px;
+}
+
+#yourcon{
+    height: 300px;
+    width: 100%;
+}
+
+#yourtop{
+    height: 20%;
+    width: 100%;
+    background-color: rgb(61, 61, 61);
+    display: flex;
+    align-items: center;
+}
+
+#yournum{
+    height: 50%;
+    width: 40px;
+    border-radius: 50%;
+    background-color: white;
+    margin: 5px;
+}
+
+#yourbot{
+    height: 60%;
+    width: 98%;
+    background-color: white;
+    border: 3px solid gray;
+}
+
+#yourpeople{
+    margin-left: 20px;
+}
+
+#viewmore{
+    height: 20%;
+    width: 100%;
+    border-top: 3px solid gray;
+}
+
+#viewbutton{
+    color: blue;
+    margin-left: 20px;
+}
