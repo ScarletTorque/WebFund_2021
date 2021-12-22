@@ -1,9 +1,9 @@
-function roll8ball(){  
-        var lifesAnswers = [
+function roll8ball(){
+    var lifesAnswers = [
         "It is certain.",
         "It is decidedly so.",
         "Without a doubt.",
-        "Yes - definitely.",
+        "Yes – definitely.",
         "You may rely on it.",
         "As I see it, yes.",
         "Most likely.",
@@ -21,8 +21,8 @@ function roll8ball(){
         "Outlook not so good.",
         "Very doubtful."
     ];
-    var roll = Math.floor(Math.random() * lifesAnswers.length);
-    return lifesAnswers[roll]    
+    var choice=Math.floor(Math.random()*lifesAnswers.length)
+    return lifesAnswers[choice]
 }
 
-console.log(roll8ball())
+console.log(roll8ball());
