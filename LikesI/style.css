@@ -1,0 +1,38 @@
+#post{
+    height: 140px;
+    width: 550px;
+    border: 3px solid black;
+    padding: 20px;
+    justify-content: space-between;
+}
+
+#topsect{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#name{
+    height: 40px;
+    width: 20%;
+    align-items: center;
+}
+#likes{
+    height: 40px;
+    width: 40%;
+    display: flex;
+    align-items: center;
+}
+
+#button{
+    background-color: yellow;
+    height: 40px;
+    margin-left: 40px;
+}
+
+#filler{
+    height: 40px;
+    width: 100%;
+    margin-top: 30px;
+}

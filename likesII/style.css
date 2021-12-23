@@ -1,0 +1,90 @@
+#navbar{
+    height: 125px;
+    width: 80%;
+    margin: 0px auto;
+}
+
+#top{
+    height: 50%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+
+#bottom{
+    height: 50%;
+    width: 100%;
+    text-align: center;
+}
+
+#feed{
+    height: 100%;
+    width: 80%;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+#avatar{
+    height: 400px;
+    width: 25%;
+    justify-content: center;
+    text-align: center;
+    border: 3px solid black;
+}
+
+#posts{
+    height: 700px;
+    width: 50%;
+    display: inline;
+}
+
+#pfp{
+    height: 180px;
+    margin-top: 50px;
+}
+
+#post{
+    height: 140px;
+    width: 99%;
+    border: 3px solid black;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+#topsect{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#feedname{
+    height: 40px;
+    width: 20%;
+    align-items: center;
+}
+
+#likes{
+    height: 40px;
+    width: 40%;
+    display: flex;
+    align-items: center;
+}
+
+#button{
+    background-color: yellow;
+    height: 40px;
+    margin-left: 40px;
+}
+
+#filler{
+    height: 40px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+#link{
+    color: blue;
+}
