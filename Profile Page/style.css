@@ -113,6 +113,7 @@ u{
     height: 15%;
     width: 100%;
     background-color: rgb(61, 61, 61);
+    display: flex;
 }
 
 #edubot{
@@ -140,6 +141,9 @@ u{
     border-radius: 50%;
     background-color: white;
     margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #conbot{
@@ -181,6 +185,9 @@ u{
     border-radius: 50%;
     background-color: white;
     margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #yourbot{
